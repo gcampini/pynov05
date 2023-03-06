@@ -4,3 +4,6 @@
 		- une fonction d'addition `add` (return a + b) ;
 		- une fonction `hello` qui écrit dans la console la version de `numpy` actuellement installée (votre package a donc besoin de numpy pour fonctionner).
 	Les fonctions doivent pouvoir être importées via `from nom_du_package import add, hello`.
+
+2.	Packager le module pour en faire un package Python prêt à être distribué.
+	Utiliser `setuptools`.
