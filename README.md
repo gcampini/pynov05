@@ -7,3 +7,5 @@
 
 2.	Packager le module pour en faire un package Python prêt à être distribué.
 	Utiliser `setuptools`.
+
+3.	Publier le package sur le PyPI de test (https://test.pypi.org/).
