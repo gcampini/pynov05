@@ -7,5 +7,5 @@ setup(
     description='A small example package',
     author='Gil Campini',
     install_requires=['numpy'],
-    packages=find_packages(exclude=['tests']),
+    packages=find_packages(),
 )
