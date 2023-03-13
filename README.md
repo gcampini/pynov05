@@ -9,3 +9,7 @@
 	Utiliser `setuptools`.
 
 3.	Publier le package sur le PyPI de test (https://test.pypi.org/).
+
+4.	Installer le package depuis le PyPI sur un autre projet Python (via pip).
+	La commande `hello` dans le terminal doit executer la fonction `hello()` du module.
+	La commande `python3 -m mytestpackage` doit executer la fonction `hello()` du module.
